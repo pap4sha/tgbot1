@@ -1,7 +1,7 @@
 import json
 from aiogram import Bot, Dispatcher, executor, types
 
-bot = Bot(token='5244929327:AAHE6UyH234NID-fGsweN1_HOqw02EulmwM')
+bot = Bot(token='')
 dp = Dispatcher(bot)
 
 
